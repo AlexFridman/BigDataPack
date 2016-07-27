@@ -5,3 +5,5 @@
 -> Kafka Setup and Twittere streaming as Demo
 
 -> Different Spark functions.
+
+-> Hadoop Cascading level up guide
