@@ -1,0 +1,5 @@
+2;dheeraj;500
+5;micheal;200
+3;khanal;900
+1;dheeraj;300
+5;micheal;400

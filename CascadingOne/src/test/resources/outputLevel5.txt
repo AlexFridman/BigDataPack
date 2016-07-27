@@ -1,0 +1,5 @@
+
+1	dheeraj	300
+2	dheeraj	500
+3	khanal	900
+5	micheal	600
