@@ -12,8 +12,8 @@ import org.apache.kafka.clients.producer.ProducerRecord;
  * 
  * @author dpanw
  *Kafka producer , gets streaming data from twitter source and feeds to consumer using topic
- *command   java -cp "kafka_2.11-0.10.0.0/libs/*":"twitter4j-4.0.4/lib/*":. KafkaTwitterProducer Pd0qRHkslklQ3yGSkAM9uagY
- *T 70sGcljH8V4Nq0i1ZpIVhpu619k2nqWm66XM7vAs2vo5A3Zhv3 2925168379-0TNkrhgcnzHM9r9OKdboxZwPVFXQC12nCM6XCAa 1XseTS2ZRrZaXJ6ViO4x7HZcez8YR4ckpDt65ul2jmXOR twitterproducer food
+ *command   java -cp "kafka_2.11-0.10.0.0/libs/*":"twitter4j-4.0.4/lib/*":. KafkaTwitterProducer onsumer-key  Consumer-secret-access access-token   access-token-secret 
+ *twitterproducer football
  *
  *twitterproducer is a name of topic and food is a keyword to relate tweets , command contains twitter app credentials
  *
